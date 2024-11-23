@@ -11,7 +11,7 @@
 .tour-card{
     background:white;
     border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 20px rgba(8, 8, 8, 0.1);
     overflow:hidden;
     transition: transform 0.3s ease;
 }
@@ -35,14 +35,14 @@
     margin-bottom: 1rem;
 }
 .tour-price {
-  background: #2ecc71;
+  background: #8af6cc;
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 25px;
 }
 /*description*/
 .tour-description {
-  color: #555;
+  color: #404041;
   line-height: 1.6;
   margin-bottom: 1.5rem;
 }
@@ -50,7 +50,7 @@
 .toggle-btn {
     background: none;
     border: none;
-    color: #3498db;
+    color: #166089;
     cursor: pointer;
     font-weight: 600;
     padding: 0.25rem 0.5rem;
@@ -58,7 +58,7 @@
   .remove-btn {
   width: 100%;
   padding: 1rem;
-  background: #e74c3c;
+  background: #e74c9c;
   color: white;
   border: none;
   border-radius: 8px;
@@ -72,7 +72,7 @@
     font-size: 1.25rem;
   }
   .refresh-btn{
-  background: #3498db;
+  background: #8abcea;
   color: white;
   padding: 1rem 2rem;
   border: none;
